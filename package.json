@@ -5,7 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "plus": "nodemon src/plus.js",
+    "minus": "nodemon src/minus.js",
+    "multiply": "nodemon src/multiply.js",
+    "divide": "nodemon src/divide.js"
   },
   "keywords": [],
   "author": "Natalia Novikova <novikovanatalie@protonmail.com>",
