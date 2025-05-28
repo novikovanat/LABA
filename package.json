@@ -5,10 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "plus": "nodemon src/plus.js",
-    "minus": "nodemon src/minus.js",
-    "multiply": "nodemon src/multiply.js",
-    "divide": "nodemon src/divide.js"
+    "dev": "nodemon src/math.js"
   },
   "keywords": [],
   "author": "Natalia Novikova <novikovanatalie@protonmail.com>",
